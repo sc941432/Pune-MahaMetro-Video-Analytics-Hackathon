@@ -1,7 +1,3 @@
-Got it. I'll update the README with the correct paths for the images. Here is the revised README:
-
----
-
 # VA-Hackathon Pune-MahaMetro Video Analytics Solutions
 
 Welcome to the VA-Hackathon Pune-MahaMetro project! This repository contains solutions developed for two critical safety issues observed in Pune MahaMetro stations:
@@ -17,11 +13,9 @@ The project is organized into two main folders:
   - `Platform-Edge.ipynb`
   - `best_segment_old.pt`
   - `yolov8s.pt`
-  - `Screenshot 2024-05-03 154200.png`
 - `Esclator Fall Detection`
   - `fall.ipynb`
   - `best_our.pt`
-  - `Screenshot 2024-05-03 154250.png`
 
 ## Problem Statements
 
@@ -93,10 +87,15 @@ We developed a video analytics solution using a dedicated CCTV camera view of th
 ## Images
 
 ### Platform Edge Fall Detection
-![Platform Edge Fall Detection](Platform-Edge%20Fall%20Detection/Screenshot%202024-05-03%20154200.png)
+![Screenshot 2024-05-03 154200](Platform-Edge%20Fall%20Detection/Screenshot%202024-05-03%20154200.png)
+![Screenshot 2024-05-08 111735](Platform-Edge%20Fall%20Detection/Screenshot%202024-05-08%20111735.png)
+![Screenshot 2024-05-08 111835](Platform-Edge%20Fall%20Detection/Screenshot%202024-05-08%20111835.png)
+![Screenshot 2024-06-21 172014](Platform-Edge%20Fall%20Detection/Screenshot%202024-06-21%20172014.png)
+![Screenshot 2024-06-21 172039](Platform-Edge%20Fall%20Detection/Screenshot%202024-06-21%20172039.png)
 
 ### Escalator Fall Detection
-![Escalator Fall Detection](Esclator%20Fall%20Detection/Screenshot%202024-05-03%20154250.png)
+![Screenshot 2024-06-21 173158](Esclator%20Fall%20Detection/Screenshot%202024-06-21%20173158.png)
+![Screenshot 2024-06-21 173215](Esclator%20Fall%20Detection/Screenshot%202024-06-21%20173215.png)
 
 ## License
 
@@ -112,4 +111,4 @@ Feel free to reach out for any questions or collaboration opportunities.
 
 ---
 
-Make sure the paths to the images in the `README` match the exact paths and filenames in your repository.
+This README includes the image paths according to your specified folder structure. Make sure the paths and filenames exactly match the ones in your repository.
