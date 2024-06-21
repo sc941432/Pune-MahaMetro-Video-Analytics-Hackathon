@@ -97,6 +97,12 @@ We developed a video analytics solution using a dedicated CCTV camera view of th
 ![Screenshot 2024-06-21 173158](Esclator%20Fall%20Detection/Screenshot%202024-06-21%20173158.png)
 ![Screenshot 2024-06-21 173215](Esclator%20Fall%20Detection/Screenshot%202024-06-21%20173215.png)
 
+
+## Contributors
+
+Thanks to the following people who have contributed to this project:
+https://github.com/sc941432
+
 ## Acknowledgements
 
 Special thanks to the organizers of the VA-Hackathon and Pune MahaMetro for providing the opportunity to work on these safety-critical solutions.
