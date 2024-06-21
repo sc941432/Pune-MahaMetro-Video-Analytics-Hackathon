@@ -86,7 +86,7 @@ We developed a video analytics solution using a dedicated CCTV camera view of th
 ## Images
 
 ### Platform Edge Fall Detection
-![Platform Edge Fall Detection](Pune-MahaMetro-Video-Analytics-Hackathon/Platform-Edge Fall Detection/Screenshot 2024-05-03 154200.png)
+Pune-MahaMetro-Video-Analytics-Hackathon/Platform-Edge Fall Detection/Screenshot 2024-05-03 154200.png
 
 ### Escalator Fall Detection
 ![Escalator Fall Detection](path/to/escalator_fall_image.jpg)
