@@ -97,10 +97,6 @@ We developed a video analytics solution using a dedicated CCTV camera view of th
 ![Screenshot 2024-06-21 173158](Esclator%20Fall%20Detection/Screenshot%202024-06-21%20173158.png)
 ![Screenshot 2024-06-21 173215](Esclator%20Fall%20Detection/Screenshot%202024-06-21%20173215.png)
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 ## Acknowledgements
 
 Special thanks to the organizers of the VA-Hackathon and Pune MahaMetro for providing the opportunity to work on these safety-critical solutions.
@@ -110,5 +106,3 @@ Special thanks to the organizers of the VA-Hackathon and Pune MahaMetro for prov
 Feel free to reach out for any questions or collaboration opportunities.
 
 ---
-
-This README includes the image paths according to your specified folder structure. Make sure the paths and filenames exactly match the ones in your repository.
