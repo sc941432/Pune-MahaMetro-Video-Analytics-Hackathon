@@ -1,4 +1,9 @@
-# Pune-MahaMetro-Video-Analytics-Hackathon
+Got it. I'll update the README with the correct paths for the images. Here is the revised README:
+
+---
+
+# VA-Hackathon Pune-MahaMetro Video Analytics Solutions
+
 Welcome to the VA-Hackathon Pune-MahaMetro project! This repository contains solutions developed for two critical safety issues observed in Pune MahaMetro stations:
 
 1. Platform Edge Fall Detection
@@ -12,9 +17,11 @@ The project is organized into two main folders:
   - `Platform-Edge.ipynb`
   - `best_segment_old.pt`
   - `yolov8s.pt`
+  - `Screenshot 2024-05-03 154200.png`
 - `Esclator Fall Detection`
   - `fall.ipynb`
   - `best_our.pt`
+  - `Screenshot 2024-05-03 154250.png`
 
 ## Problem Statements
 
@@ -83,10 +90,13 @@ We developed a video analytics solution using a dedicated CCTV camera view of th
 - **Model Files**:
   - `best_our.pt`
 
-Images
-Platform Edge Fall Detection
+## Images
 
-Escalator Fall Detection
+### Platform Edge Fall Detection
+![Platform Edge Fall Detection](Platform-Edge%20Fall%20Detection/Screenshot%202024-05-03%20154200.png)
+
+### Escalator Fall Detection
+![Escalator Fall Detection](Esclator%20Fall%20Detection/Screenshot%202024-05-03%20154250.png)
 
 ## License
 
@@ -102,4 +112,4 @@ Feel free to reach out for any questions or collaboration opportunities.
 
 ---
 
-Replace `path/to/platform_edge_image.jpg` and `path/to/escalator_fall_image.jpg` with the actual paths to your images in the repository. You can add the images to your GitHub repository by placing them in an appropriate directory and updating the paths accordingly.
+Make sure the paths to the images in the `README` match the exact paths and filenames in your repository.
