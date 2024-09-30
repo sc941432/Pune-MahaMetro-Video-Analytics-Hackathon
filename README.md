@@ -4,7 +4,7 @@ Welcome to the VA-Hackathon Pune-MahaMetro project! This repository contains sol
 
 1. Platform Edge Fall Detection
 2. Escalator Fall Detection
-3. 
+# Our model is trained on 10,000 images and on Videos.
 # Output Videos after detection Link:-> https://1drv.ms/f/s!AmDuY-Lai8GLlQaGEisgG60H0f1r
 ## Project Structure
 
